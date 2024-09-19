@@ -9,7 +9,7 @@ const Home = () => {
 
         <p className=" text-backgroundColor">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis et qui, maxime assumenda repellat corrupti officia dolorum delectus labore
-          deleniti?
+          del
         </p>
         <div className=" lg:pl-44">
           <Button title="Order Now" />
